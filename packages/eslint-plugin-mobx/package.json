@@ -38,7 +38,7 @@
         "eslint": "^7.0.0",
         "eslint-7": "npm:eslint@^7.0.0",
         "eslint-9": "npm:eslint@^9.0.0",
-        "rollup": "^2.60.2"
+        "rollup": "^3.30.0"
     },
     "keywords": [
         "eslint",
